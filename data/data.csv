@@ -1,0 +1,11 @@
+order_id,customer_name,product,quantity,unit_price,order_date,region
+1001,Ravi Kumar,Laptop,1,75000,2024-01-05,South
+1002,Priya Sharma,Mouse,3,850,2024-01-05,North
+1003,Arjun Mehta,Keyboard,2,1200,2024-01-06,West
+1004,Ravi Kumar,Monitor,1,18000,2024-01-07,South
+1005,NULL,Laptop,1,75000,2024-01-08,East
+1006,Priya Sharma,Mouse,5,850,2024-01-08,North
+1003,Arjun Mehta,Keyboard,2,1200,2024-01-06,West
+1007,Deepa Nair,Webcam,2,3500,2024-01-09,South
+1008,Karthik R,Laptop,1,75000,2024-01-10,North
+1009,Deepa Nair,Mouse,4,850,2024-01-11,South
